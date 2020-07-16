@@ -1,0 +1,4 @@
+[submodule "TestSubmodule"]
+	path = TestSubmodule
+	url = https://github.com/smjesintha/TestSubmodule.git
+	branch = master
